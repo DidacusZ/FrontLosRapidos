@@ -7,7 +7,7 @@ Anotación: Si abres el proyecto en vez de importar el .war te dará un fallo
 
 
 Para el equipo:
-
+(java and web developers)
 1. Importar el .war
 1.1 Al importarlo crea un proyecto en tu Workspace
 2. Actualizar el proyecto
